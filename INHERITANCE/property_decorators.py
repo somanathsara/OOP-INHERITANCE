@@ -18,7 +18,7 @@ emp.name = "Somanath sara"
 print(emp.fname, emp.lname)
 emp.show_class()
 
-#We have to check why error occur.
+
         
 
         
